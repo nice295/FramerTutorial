@@ -1,0 +1,520 @@
+{
+  "version" : 0,
+  "root" : {
+    "id" : "HlZrm%;]",
+    "fillColor" : "#fff",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "Y}\/7C)U]",
+        "__class" : "FrameNode",
+        "x" : 1550,
+        "parentid" : "HlZrm%;]",
+        "width" : 263,
+        "y" : 0,
+        "deviceType" : null,
+        "children" : [
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.8688212927756654,
+            "parentid" : "Y}\/7C)U]",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 23,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 2,
+                      "style" : "SIZE:16",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "FONT:Roboto-Regular",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 2,
+                      "style" : "COLOR:rgb(17, 153, 238)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "FONT:Roboto-Regular",
+                      "COLOR:rgb(17, 153, 238)"
+                    ]
+                  },
+                  "text" : "OK",
+                  "key" : "afg3f",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "ok",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "PIZl{:pf",
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 16,
+            "height" : 19,
+            "opacity" : 1,
+            "width" : 23,
+            "widthFactor" : null,
+            "targetName" : "ok",
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.8924050632911392,
+            "autoSize" : true
+          },
+          {
+            "__class" : "TextNode",
+            "locked" : false,
+            "centerAnchorX" : 0.6254752851711026,
+            "parentid" : "Y}\/7C)U]",
+            "rotation" : 0,
+            "top" : null,
+            "right" : 66,
+            "styledText" : {
+              "blocks" : [
+                {
+                  "depth" : 0,
+                  "inlineStyleRanges" : [
+                    {
+                      "length" : 6,
+                      "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "SIZE:16",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "LETTERSPACING:0",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "LINEHEIGHT:1.2",
+                      "offset" : 0
+                    },
+                    {
+                      "length" : 6,
+                      "style" : "COLOR:rgb(17, 153, 238)",
+                      "offset" : 0
+                    }
+                  ],
+                  "entityRanges" : [
+
+                  ],
+                  "data" : {
+                    "emptyStyle" : [
+                      "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                      "SIZE:16",
+                      "LETTERSPACING:0",
+                      "LINEHEIGHT:1.2",
+                      "COLOR:rgb(17, 153, 238)"
+                    ]
+                  },
+                  "text" : "CANCEL",
+                  "key" : "afg3f",
+                  "type" : "unstyled"
+                }
+              ],
+              "__class" : "StyledTextDraft",
+              "entityMap" : {
+
+              }
+            },
+            "name" : "cancel",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "id" : "+7]M)aiS",
+            "constraintsLocked" : false,
+            "left" : null,
+            "bottom" : 16,
+            "height" : 19,
+            "opacity" : 1,
+            "width" : 65,
+            "widthFactor" : null,
+            "targetName" : "cancel",
+            "heightFactor" : null,
+            "editable" : false,
+            "visible" : true,
+            "centerAnchorY" : 0.8924050632911392,
+            "autoSize" : true
+          }
+        ],
+        "height" : 237,
+        "fillColor" : "#ffffff",
+        "targetName" : "popup",
+        "name" : "popup"
+      },
+      {
+        "id" : ";kyZb}x+",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "HlZrm%;]",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "lI;k80A$",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(17, 153, 238)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "__class" : "SVGNode",
+                "originalFilename" : "filter_list",
+                "locked" : false,
+                "centerAnchorX" : 0.07777777777777778,
+                "parentid" : "lI;k80A$",
+                "rotation" : 0,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : null,
+                "intrinsicHeight" : 24,
+                "name" : "btnMenu",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : "F0I#UvB6",
+                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 7h12v-2H6v2z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : 16,
+                "bottom" : null,
+                "height" : 24,
+                "opacity" : 1,
+                "width" : 24,
+                "widthFactor" : null,
+                "targetName" : "btnMenu",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "visible" : true,
+                "centerAnchorY" : 0.5
+              },
+              {
+                "__class" : "SVGNode",
+                "originalFilename" : "more_vert",
+                "locked" : false,
+                "centerAnchorX" : 0.9,
+                "parentid" : "lI;k80A$",
+                "rotation" : 0,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : 24,
+                "intrinsicHeight" : 24,
+                "name" : "more",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : "A%Fu,3Ps",
+                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 24,
+                "opacity" : 1,
+                "width" : 24,
+                "widthFactor" : null,
+                "targetName" : "more",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "visible" : true,
+                "centerAnchorY" : 0.5
+              }
+            ],
+            "parentid" : ";kyZb}x+",
+            "borderRight" : 1,
+            "name" : null,
+            "height" : 54,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.05625,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 360
+          },
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "UnLUG-^D",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgba(0,170,255,0.5)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 16,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.4930555555555556,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+
+            ],
+            "parentid" : ";kyZb}x+",
+            "borderRight" : 1,
+            "name" : "item",
+            "height" : 200,
+            "borderWidth" : 1,
+            "top" : 66,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 24,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.2625,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : "item",
+            "bottom" : null,
+            "width" : 320
+          }
+        ],
+        "height" : 667,
+        "fillColor" : "#ffffff",
+        "targetName" : "viewMain",
+        "name" : "viewMain"
+      },
+      {
+        "id" : "Q2(n6r<4",
+        "__class" : "FrameNode",
+        "x" : 446,
+        "parentid" : "HlZrm%;]",
+        "width" : 187.5,
+        "y" : 0,
+        "deviceType" : null,
+        "children" : [
+
+        ],
+        "height" : 667,
+        "fillColor" : "rgb(34, 170, 153)",
+        "targetName" : "viewMenu",
+        "name" : "viewMenu"
+      },
+      {
+        "id" : "#><FISkU",
+        "__class" : "FrameNode",
+        "x" : 1104,
+        "parentid" : "HlZrm%;]",
+        "width" : 375,
+        "y" : 0,
+        "deviceType" : "apple-iphone-7-black",
+        "children" : [
+          {
+            "radiusBottomLeft" : 0,
+            "rotation" : 0,
+            "fillColorEnabled" : true,
+            "id" : "k#8~bYH[",
+            "__class" : "RectangleNode",
+            "fillColor" : "rgb(187, 102, 204)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 0,
+            "locked" : false,
+            "radius" : 0,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5,
+            "borderPerSide" : false,
+            "radiusBottomRight" : 0,
+            "children" : [
+              {
+                "__class" : "SVGNode",
+                "originalFilename" : "arrow_back",
+                "locked" : false,
+                "centerAnchorX" : 0.07777777777777778,
+                "parentid" : "k#8~bYH[",
+                "rotation" : 0,
+                "intrinsicWidth" : 24,
+                "top" : null,
+                "right" : null,
+                "intrinsicHeight" : 24,
+                "name" : "btnBack",
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "aspectRatioLocked" : true,
+                "id" : "GcceL$';",
+                "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z\"><\/path><\/svg>",
+                "constraintsLocked" : false,
+                "left" : 16,
+                "bottom" : null,
+                "height" : 24,
+                "opacity" : 1,
+                "width" : 24,
+                "widthFactor" : null,
+                "targetName" : "btnBack",
+                "heightFactor" : null,
+                "fillColor" : "rgb(255, 255, 255)",
+                "visible" : true,
+                "centerAnchorY" : 0.5
+              }
+            ],
+            "parentid" : "#><FISkU",
+            "borderRight" : 1,
+            "name" : null,
+            "height" : 54,
+            "borderWidth" : 1,
+            "top" : 0,
+            "borderTop" : 1,
+            "radiusTopRight" : 0,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 0,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.04047976011994003,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 0,
+            "targetName" : null,
+            "bottom" : null,
+            "width" : 375
+          }
+        ],
+        "height" : 667,
+        "fillColor" : "#ffffff",
+        "targetName" : "viewDetail",
+        "name" : "viewDetail"
+      }
+    ]
+  }
+}
