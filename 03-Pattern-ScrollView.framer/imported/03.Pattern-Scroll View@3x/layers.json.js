@@ -1,0 +1,1796 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["03.Pattern-Scroll View@3x/layers.json.js"] = [
+	{
+		"objectId": "6B76AD4A-F907-4635-9BB6-402CE7B98D94",
+		"kind": "artboard",
+		"name": "Album",
+		"originalName": "Album",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 183,
+			"y": 21,
+			"width": 375,
+			"height": 782
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(255, 255, 255, 1)",
+		"children": [
+			{
+				"objectId": "B45013CF-DAF4-461D-BABD-5FA3A28F6954",
+				"kind": "group",
+				"name": "Top_Bar",
+				"originalName": "Top Bar",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 7,
+					"y": 4,
+					"width": 363,
+					"height": 49
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Top_Bar-qjq1mdez.png",
+					"frame": {
+						"x": 7,
+						"y": 4,
+						"width": 363,
+						"height": 49
+					}
+				},
+				"children": [
+					{
+						"objectId": "47B99A2A-5198-47AD-AC29-F7E5CC3DC29E",
+						"kind": "group",
+						"name": "AlbumBack",
+						"originalName": "AlbumBack",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 8,
+							"y": 32,
+							"width": 57,
+							"height": 21
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-AlbumBack-nddcotlb.png",
+							"frame": {
+								"x": 8,
+								"y": 32,
+								"width": 57,
+								"height": 21
+							}
+						},
+						"children": [
+							{
+								"objectId": "E825A129-1EAF-44C2-9885-D28D50794AD6",
+								"kind": "group",
+								"name": "Back_Arrow_Red",
+								"originalName": "Back Arrow Red",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 8,
+									"y": 32,
+									"width": 13,
+									"height": 21
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Back_Arrow_Red-rtgynuex.png",
+									"frame": {
+										"x": 8,
+										"y": 32,
+										"width": 13,
+										"height": 21
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"objectId": "FE881E10-A0D2-46EA-8AD4-C102A1CCEA77",
+				"kind": "group",
+				"name": "Album_Info",
+				"originalName": "Album Info",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 20,
+					"y": 64,
+					"width": 355,
+					"height": 156
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Album_Info-rku4odff.png",
+					"frame": {
+						"x": 20,
+						"y": 64,
+						"width": 355,
+						"height": 156
+					}
+				},
+				"children": [
+					{
+						"objectId": "6E9B248D-F29F-4C18-845B-E4697A6DF3AD",
+						"kind": "group",
+						"name": "Cover",
+						"originalName": "Cover",
+						"maskFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 140,
+							"height": 140
+						},
+						"layerFrame": {
+							"x": 20,
+							"y": 64,
+							"width": 140,
+							"height": 140
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Cover-nku5qji0.png",
+							"frame": {
+								"x": 20,
+								"y": 64,
+								"width": 140,
+								"height": 140
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "12236226-05DA-49C7-9B6E-5420E4E4A787",
+						"kind": "group",
+						"name": "Button",
+						"originalName": "Button",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 175,
+							"y": 176,
+							"width": 66,
+							"height": 28
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Button-mtiymzyy.png",
+							"frame": {
+								"x": 175,
+								"y": 176,
+								"width": 66,
+								"height": 28
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "D209821D-7CC7-4F17-AB70-42534F0F17B5",
+						"kind": "group",
+						"name": "Button1",
+						"originalName": "Button",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 327,
+							"y": 176,
+							"width": 28,
+							"height": 28
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-Button-rdiwotgy.png",
+							"frame": {
+								"x": 327,
+								"y": 176,
+								"width": 28,
+								"height": 28
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "7D824465-C11F-4354-A710-087F36FB5C45",
+				"kind": "group",
+				"name": "_Tool_Bars_Music",
+				"originalName": " Tool Bars/Music",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 615,
+					"width": 375,
+					"height": 52
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "86D92E62-69F3-4EB4-A26F-8F421E4B88C0",
+						"kind": "group",
+						"name": "_Tool_Bars_Music1",
+						"originalName": " Tool Bars/Music",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 615,
+							"width": 375,
+							"height": 52
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-_Tool_Bars_Music-odzeotjf.png",
+							"frame": {
+								"x": 0,
+								"y": 615,
+								"width": 375,
+								"height": 52
+							}
+						},
+						"children": [
+							{
+								"objectId": "4480EB81-4C36-4943-823B-080075685BEB",
+								"kind": "group",
+								"name": "Library",
+								"originalName": "Library",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 21,
+									"y": 623,
+									"width": 33,
+									"height": 41
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Library-ndq4mevc.png",
+									"frame": {
+										"x": 21,
+										"y": 623,
+										"width": 33,
+										"height": 41
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "54E5A10F-0D74-4D62-8C3C-8D848BEBE7AD",
+								"kind": "group",
+								"name": "For_You",
+								"originalName": "For You",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 94,
+									"y": 625,
+									"width": 36,
+									"height": 38
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-For_You-ntrfnuex.png",
+									"frame": {
+										"x": 94,
+										"y": 625,
+										"width": 36,
+										"height": 38
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "F5B45526-5555-46C4-A081-DBA05E80CF56",
+								"kind": "group",
+								"name": "Browse",
+								"originalName": "Browse",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 170,
+									"y": 623,
+									"width": 34,
+									"height": 40
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Browse-rjvcndu1.png",
+									"frame": {
+										"x": 170,
+										"y": 623,
+										"width": 34,
+										"height": 40
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "15F89246-536B-4D96-8F64-183345DA7745",
+								"kind": "group",
+								"name": "Radio",
+								"originalName": "Radio",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 248,
+									"y": 625,
+									"width": 28,
+									"height": 38
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Radio-mtvgodky.png",
+									"frame": {
+										"x": 248,
+										"y": 625,
+										"width": 28,
+										"height": 38
+									}
+								},
+								"children": []
+							},
+							{
+								"objectId": "2EE8CEBD-857F-4F74-9CD1-F1CC8906FFF9",
+								"kind": "group",
+								"name": "Search",
+								"originalName": "Search",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 321,
+									"y": 624,
+									"width": 33,
+									"height": 39
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-Search-mkvfoenf.png",
+									"frame": {
+										"x": 321,
+										"y": 624,
+										"width": 33,
+										"height": 39
+									}
+								},
+								"children": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"objectId": "30314129-9B7A-415A-9F32-8580F585B141",
+				"kind": "group",
+				"name": "Shuffle",
+				"originalName": "Shuffle",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 19,
+					"y": 237,
+					"width": 357,
+					"height": 31
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-Shuffle-mzazmtqx.png",
+					"frame": {
+						"x": 19,
+						"y": 237,
+						"width": 357,
+						"height": 31
+					}
+				},
+				"children": []
+			},
+			{
+				"objectId": "D3A4BBB8-57EE-4197-B97C-8E6DFC8FDCE7",
+				"kind": "group",
+				"name": "list",
+				"originalName": "list",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 0,
+					"y": 267,
+					"width": 375,
+					"height": 2303
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "783067BA-302C-4712-8288-0CCCC510A8BD",
+						"kind": "group",
+						"name": "item10",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2538,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nzgzmdy3.png",
+							"frame": {
+								"x": 27,
+								"y": 2538,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "6A2CCB57-DA8C-49FE-A1A0-AB9F8C74EF44",
+						"kind": "group",
+						"name": "item101",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2492,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nkeyq0nc.png",
+							"frame": {
+								"x": 27,
+								"y": 2492,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "03703402-8BAF-4236-B5F2-BD1796A572A7",
+						"kind": "group",
+						"name": "item102",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 2446,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mdm3mdm0.png",
+							"frame": {
+								"x": 28,
+								"y": 2446,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "D4523B61-CBD6-4D94-BBFA-C14F6B8240E9",
+						"kind": "group",
+						"name": "item103",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 2400,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rdq1mjnc.png",
+							"frame": {
+								"x": 28,
+								"y": 2400,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "0387ABCB-BFF7-4684-821A-84243C1630F2",
+						"kind": "group",
+						"name": "item104",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 2354,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mdm4n0fc.png",
+							"frame": {
+								"x": 28,
+								"y": 2354,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "5FABE855-1F6C-4BDB-8E15-5D5E1CF1C3F5",
+						"kind": "group",
+						"name": "item105",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2308,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nuzbqku4.png",
+							"frame": {
+								"x": 27,
+								"y": 2308,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "567995E3-0AF9-4CD7-9D05-C7DDB1D440CC",
+						"kind": "group",
+						"name": "item106",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 2262,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nty3otk1.png",
+							"frame": {
+								"x": 28,
+								"y": 2262,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "4DD0BB86-8E35-4568-BB43-87DE22AAB591",
+						"kind": "group",
+						"name": "item107",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2216,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-neremejc.png",
+							"frame": {
+								"x": 27,
+								"y": 2216,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "6802C7CD-7795-41FD-8326-891F2B363792",
+						"kind": "group",
+						"name": "item108",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2170,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-njgwmkm3.png",
+							"frame": {
+								"x": 27,
+								"y": 2170,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "44108FE3-04DE-41EB-AAC0-B1819B6771E8",
+						"kind": "group",
+						"name": "item109",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2124,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-ndqxmdhg.png",
+							"frame": {
+								"x": 27,
+								"y": 2124,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "7CA27598-7CFD-4F96-9C44-25AFE9A97D1C",
+						"kind": "group",
+						"name": "item1010",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2078,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-n0nbmjc1.png",
+							"frame": {
+								"x": 27,
+								"y": 2078,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "4186ECDF-C8CD-4147-A349-2B0E895356DA",
+						"kind": "group",
+						"name": "item1011",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 2032,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nde4nkvd.png",
+							"frame": {
+								"x": 27,
+								"y": 2032,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "2023C336-808C-4C35-8D12-86B537A352A8",
+						"kind": "group",
+						"name": "item1012",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1986,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mjaym0mz.png",
+							"frame": {
+								"x": 28,
+								"y": 1986,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "483F31ED-FC8D-4689-A726-C458166AB45E",
+						"kind": "group",
+						"name": "item1013",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1940,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-ndgzrjmx.png",
+							"frame": {
+								"x": 28,
+								"y": 1940,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "D66EB508-B563-46A8-8C54-D03A41C172FB",
+						"kind": "group",
+						"name": "item1014",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1894,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rdy2rui1.png",
+							"frame": {
+								"x": 28,
+								"y": 1894,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "52709A06-8C31-4C61-8080-81B36315DEBD",
+						"kind": "group",
+						"name": "item1015",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1848,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nti3mdlb.png",
+							"frame": {
+								"x": 27,
+								"y": 1848,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "E094E7D5-E57C-4DF4-AAB8-63715F0BF609",
+						"kind": "group",
+						"name": "item1016",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1802,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rta5neu3.png",
+							"frame": {
+								"x": 28,
+								"y": 1802,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "8EEF545D-5861-475D-B41A-6F2E6EC2E6B9",
+						"kind": "group",
+						"name": "item1017",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1756,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-oevfrju0.png",
+							"frame": {
+								"x": 27,
+								"y": 1756,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "7172FAA5-F904-412A-898E-4EDA4F79587A",
+						"kind": "group",
+						"name": "item1018",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1710,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nze3mkzb.png",
+							"frame": {
+								"x": 28,
+								"y": 1710,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "D8ED1D17-E2F4-4F2F-A1D6-552C66F651AF",
+						"kind": "group",
+						"name": "item1019",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1664,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rdhfrdfe.png",
+							"frame": {
+								"x": 28,
+								"y": 1664,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "103A50B1-84B9-43E0-8310-18E3F7A2C2AB",
+						"kind": "group",
+						"name": "item1020",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1618,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mtazqtuw.png",
+							"frame": {
+								"x": 27,
+								"y": 1618,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "88691D0B-49D1-4A89-BB08-ABAD1B07FB34",
+						"kind": "group",
+						"name": "item1021",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1572,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-odg2otfe.png",
+							"frame": {
+								"x": 28,
+								"y": 1572,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "51847262-683D-4952-9DD1-F957CD42355F",
+						"kind": "group",
+						"name": "item1022",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1526,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nte4ndcy.png",
+							"frame": {
+								"x": 28,
+								"y": 1526,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "5A3CC1DD-39F1-4626-8E33-C617BCE444C1",
+						"kind": "group",
+						"name": "item1023",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1480,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nuezq0mx.png",
+							"frame": {
+								"x": 28,
+								"y": 1480,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "4BAADB24-374D-4764-83B3-47A77A6B74B9",
+						"kind": "group",
+						"name": "item1024",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1434,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nejbqurc.png",
+							"frame": {
+								"x": 27,
+								"y": 1434,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "041F7B2F-1556-4BBB-9A84-C96FCA4C6277",
+						"kind": "group",
+						"name": "item1025",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1388,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mdqxrjdc.png",
+							"frame": {
+								"x": 27,
+								"y": 1388,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "AF2EF4D3-5551-44D3-A59C-9853090DED92",
+						"kind": "group",
+						"name": "item1026",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1342,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-quyyruy0.png",
+							"frame": {
+								"x": 28,
+								"y": 1342,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "E811F8B9-A760-43C7-9B4D-7C0FD160572B",
+						"kind": "group",
+						"name": "item1027",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1296,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rtgxmuy4.png",
+							"frame": {
+								"x": 28,
+								"y": 1296,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "5A7AAE14-CAA0-47ED-9CA7-6CC477D224D4",
+						"kind": "group",
+						"name": "item1028",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1250,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nue3quff.png",
+							"frame": {
+								"x": 28,
+								"y": 1250,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "0D471990-2EDF-4FDF-8D2E-53628772A62A",
+						"kind": "group",
+						"name": "item1029",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1204,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-meq0nze5.png",
+							"frame": {
+								"x": 27,
+								"y": 1204,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "5DE630FA-5579-4929-B431-3A266B4779C8",
+						"kind": "group",
+						"name": "item1030",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 1158,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nurfnjmw.png",
+							"frame": {
+								"x": 27,
+								"y": 1158,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "48113836-3C5D-4FD0-9085-2993EFB17EB9",
+						"kind": "group",
+						"name": "item1031",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1112,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-ndgxmtm4.png",
+							"frame": {
+								"x": 28,
+								"y": 1112,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "9CD4C17C-F61A-41A8-8382-6A7BFB525822",
+						"kind": "group",
+						"name": "item1032",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1066,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-ounenemx.png",
+							"frame": {
+								"x": 28,
+								"y": 1066,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "F54809F8-4DC1-490B-9020-960850D2F82B",
+						"kind": "group",
+						"name": "item1033",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 1020,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-rju0oda5.png",
+							"frame": {
+								"x": 28,
+								"y": 1020,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "BC0E939B-64BE-44BC-89B5-12994CA2DF46",
+						"kind": "group",
+						"name": "item1034",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 974,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-qkmwrtkz.png",
+							"frame": {
+								"x": 27,
+								"y": 974,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "5F2E5EB9-7A63-42F2-BE3D-383DF0F7C2E0",
+						"kind": "group",
+						"name": "item1035",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 928,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nuyyrtvf.png",
+							"frame": {
+								"x": 28,
+								"y": 928,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "6F03808C-BD70-4170-86FA-3196C3AF34D7",
+						"kind": "group",
+						"name": "item1036",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 882,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nkywmzgw.png",
+							"frame": {
+								"x": 28,
+								"y": 882,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "B0769BF1-7A0B-4266-9398-75BEE3F6DAED",
+						"kind": "group",
+						"name": "item1037",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 836,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-qja3njlc.png",
+							"frame": {
+								"x": 27,
+								"y": 836,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "241E393C-99E0-426C-9E69-43163B678EB1",
+						"kind": "group",
+						"name": "item1038",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 790,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mjqxrtm5.png",
+							"frame": {
+								"x": 28,
+								"y": 790,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "CEF5C135-1A67-477D-A4D5-1255EB2B2568",
+						"kind": "group",
+						"name": "item1039",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 744,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-q0vgnumx.png",
+							"frame": {
+								"x": 27,
+								"y": 744,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "AEF3F220-CCFC-418D-9E0A-AC6A8F25C123",
+						"kind": "group",
+						"name": "item1040",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 698,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-quvgm0yy.png",
+							"frame": {
+								"x": 27,
+								"y": 698,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "8D23A19E-CEF6-4827-B596-FBF71BCB9C94",
+						"kind": "group",
+						"name": "item1041",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 652,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-oeqym0ex.png",
+							"frame": {
+								"x": 28,
+								"y": 652,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "39406EEB-9EFD-49B1-BF46-6D146E8FD0C1",
+						"kind": "group",
+						"name": "item1042",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 606,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mzk0mdzf.png",
+							"frame": {
+								"x": 28,
+								"y": 606,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "AF31573C-30A9-4583-ABC7-309BE47A5118",
+						"kind": "group",
+						"name": "item1043",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 560,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-quyzmtu3.png",
+							"frame": {
+								"x": 27,
+								"y": 560,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "88CF17D3-A6ED-4CF1-A276-963885B29F34",
+						"kind": "group",
+						"name": "item1044",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 514,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-odhdrje3.png",
+							"frame": {
+								"x": 28,
+								"y": 514,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "B210CE67-E4A0-4BB3-8828-7DA5C38A46E2",
+						"kind": "group",
+						"name": "item1045",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 468,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-qjixmenf.png",
+							"frame": {
+								"x": 27,
+								"y": 468,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "2384C341-18B6-4718-86EC-CF324A86F37A",
+						"kind": "group",
+						"name": "item1046",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 28,
+							"y": 422,
+							"width": 347,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-mjm4nemz.png",
+							"frame": {
+								"x": 28,
+								"y": 422,
+								"width": 347,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "4C74398F-5A0F-4AB3-A670-EB6AE07946BD",
+						"kind": "group",
+						"name": "item1047",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 376,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nem3ndm5.png",
+							"frame": {
+								"x": 27,
+								"y": 376,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "B0637816-104E-453B-9F58-AF0D3A2C40AC",
+						"kind": "group",
+						"name": "item1048",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 27,
+							"y": 330,
+							"width": 348,
+							"height": 32
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-qja2mzc4.png",
+							"frame": {
+								"x": 27,
+								"y": 330,
+								"width": 348,
+								"height": 32
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "6E151C2A-FD66-4580-AEF5-586045155317",
+						"kind": "group",
+						"name": "item1049",
+						"originalName": "item10",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 0,
+							"y": 267,
+							"width": 375,
+							"height": 50
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-item10-nkuxntfd.png",
+							"frame": {
+								"x": 0,
+								"y": 267,
+								"width": 375,
+								"height": 50
+							}
+						},
+						"children": []
+					}
+				]
+			}
+		]
+	}
+]
